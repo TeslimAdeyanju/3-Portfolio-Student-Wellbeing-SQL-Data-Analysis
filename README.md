@@ -1,4 +1,4 @@
-# 📊 Using Data to Uncover Trends in Student Well-being Based on Stay Length"
+# 💼 Using Data to Uncover Trends in Student Well-being Based on Stay Length"
 
 This project analyzes the relationship between **student stay duration** and their well-being metrics using SQL. The well-being metrics include:
 - **PHQ (Physical Health Questionnaire)**
