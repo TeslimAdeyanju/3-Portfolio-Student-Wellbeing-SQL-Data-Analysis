@@ -1,33 +1,50 @@
-# SQL Portfolio: Uncovering Insights with Data 🛠️📊
+# 📊 Using Data to Uncover Trends in Student Well-being Based on Stay Length"
 
-Welcome to my SQL portfolio! As a finance professional leveraging data science, SQL is a key tool in how I manage, analyze, and transform large datasets into actionable insights. This portfolio highlights my SQL projects, showcasing how I use SQL to drive data-driven decision-making in both finance and data science.
+This project analyzes the relationship between **student stay duration** and their well-being metrics using SQL. The well-being metrics include:
+- **PHQ (Physical Health Questionnaire)**
+- **SCS (Social Connectedness Scale)**
+- **AS (Anxiety Scale)**
 
----
-
-## Featured Project 🚀
-
-Check out my key SQL project below:
-
-- 🏷️ [Using Data to Uncover Trends in Student Well-being Based on Stay Length](https://github.com/TeslimAdeyanju/sql-porfolios/blob/main/student-stay-duration-score-analysis.ipynb)
-
-This project explores how student stay durations impact well-being metrics like PHQ, SCS, and AS scores. It demonstrates my ability to analyze complex datasets and uncover actionable insights using SQL.
+The dataset is explored to uncover trends, including how stay duration impacts physical health, social connectedness, and anxiety levels. This analysis helps in understanding key factors that affect student well-being, providing actionable insights for educational and mental health professionals.
 
 ---
 
-## Applications of SQL in Finance & Data Science 💼🔍
+## 📑 Project Overview
 
-Here’s how I apply SQL to solve real-world financial and data challenges:
-
-- **Variance Analysis**: Writing SQL queries to compare actuals vs. forecasts and analyze financial variances.
-- **Treasury & Liquidity Analysis**: Querying large datasets to generate reports on cash flows, liquidity, and financial risk.
-- **Data-Driven Decision Making**: Using SQL to extract insights from financial data, supporting strategic business decisions.
-- **SQL for Machine Learning**: Preparing financial data for machine learning algorithms by cleaning and structuring datasets in SQL.
+This SQL analysis focuses on the following:
+1. **Data Cleaning & Preparation**: Cleaning the data and ensuring all values are valid for analysis.
+2. **Querying**: Using SQL queries to aggregate and analyze the data based on stay duration.
+3. **Data Visualization**: Presenting results through clear visualizations to highlight trends in the data.
 
 ---
 
-## Let’s Connect! 🌐
+## 🚀 Key Insights
+- **PHQ Scores**: Shorter stays are associated with lower physical health scores, indicating that students staying for shorter durations may report fewer health issues.
+- **SCS & AS Scores**: Social connectedness and anxiety levels fluctuate more with shorter stays. In particular, anxiety (AS) scores tend to be higher for shorter stay durations.
 
-I’m always open to discussing SQL projects, data science collaborations, or sharing insights on financial analytics. Feel free to connect with me to explore opportunities!
+---
+
+## 🛠️ Tools & Technologies
+- **SQL**: For querying and aggregating data.
+- **Python (pandas, matplotlib, seaborn)**: For additional data manipulation and visualization.
+
+---
+
+## 🔗 Notable Sections in the Notebook
+1. **[Data Preparation & Cleaning](#)**: Steps for preparing the dataset.
+2. **[SQL Queries](#)**: Key queries used to analyze the stay duration and well-being metrics.
+3. **[Visualizations](#)**: Visual representation of the analysis.
+
+---
+
+## 🔍 Future Directions
+- **Comparative Analysis**: Investigating differences between international and domestic students based on their well-being metrics.
+- **Deeper Analysis**: Exploring other factors like demographics to gain further insights into student well-being.
+
+---
+
+## 📬 Let's Connect
+I’m always open to discussing data-driven projects, SQL analytics, or student well-being initiatives. Feel free to connect with me to collaborate or ask questions!
 
 📧 [info@adeyanjuteslim.co.uk](mailto:info@adeyanjuteslim.co.uk)  
 🌍 [adeyanjuteslim.co.uk](https://adeyanjuteslim.co.uk)  
@@ -35,7 +52,4 @@ I’m always open to discussing SQL projects, data science collaborations, or sh
 
 ---
 
-## More Projects Coming Soon ✨
-
-This portfolio will be regularly updated with new SQL projects and case studies as I continue to build and refine my skills. Stay tuned for more!
 
