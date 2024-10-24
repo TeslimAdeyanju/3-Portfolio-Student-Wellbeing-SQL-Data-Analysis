@@ -4,7 +4,7 @@ This project explores the relationship between **student stay duration** and the
 
 ---
 
-## 📑 **Project Overview**
+### 📑 **Project Overview**
 
 This analysis provides insights into how stay duration impacts student well-being. It is structured as follows:
 1. **Data Cleaning & Preparation**: Ensuring all data is clean, accurate, and ready for analysis.
@@ -13,32 +13,32 @@ This analysis provides insights into how stay duration impacts student well-bein
 
 ---
 
-## 🚀 **Key Findings**
+### 🚀 **Key Findings**
 - **Physical Health (PHQ)**: Shorter stays often correlate with lower physical health scores, suggesting that students staying for shorter durations may experience fewer health issues.
 - **Social Connectedness & Anxiety (SCS & AS)**: There is greater fluctuation in social connectedness and anxiety scores for shorter stays, with anxiety being notably higher.
 
 ---
 
-## 🛠️ **Technologies Used**
+### 🛠️ **Technologies Used**
 - **SQL**: For data aggregation and querying.
 - **Python**: Leveraging libraries like `pandas`, `matplotlib`, and `seaborn` for further data analysis and visualization.
 
 ---
 
-## 📊 **Sections in the Project**
+### 📊 **Sections in the Project**
 1. **Data Preparation & Cleaning**: [Link to Code](#)
 2. **SQL Queries**: [Link to Code](#)
 3. **Data Visualization**: [Link to Code](#)
 
 ---
 
-## 🔍 **Future Directions**
+### 🔍 **Future Directions**
 - **Comparative Analysis**: Analyze well-being metrics for international vs. domestic students.
 - **Demographic Insights**: Explore the influence of demographic factors on well-being metrics.
 
 ---
 
-## 📬 **Get in Touch**
+### 📬 **Get in Touch**
 
 I’m always excited to collaborate on data-driven projects, particularly those involving SQL analytics and student well-being. Feel free to connect with me!
 
