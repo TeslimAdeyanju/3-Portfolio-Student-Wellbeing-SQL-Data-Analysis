@@ -1,55 +1,49 @@
-# 💼 Using Data to Uncover Trends in Student Well-being Based on Stay Length"
+# 💼 **Uncovering Trends in Student Well-being Based on Stay Duration**
 
-This project analyzes the relationship between **student stay duration** and their well-being metrics using SQL. The well-being metrics include:
-- **PHQ (Physical Health Questionnaire)**
-- **SCS (Social Connectedness Scale)**
-- **AS (Anxiety Scale)**
-
-The dataset is explored to uncover trends, including how stay duration impacts physical health, social connectedness, and anxiety levels. This analysis helps in understanding key factors that affect student well-being, providing actionable insights for educational and mental health professionals.
+This project explores the relationship between **student stay duration** and their well-being metrics using SQL and Python for analysis and visualization. By focusing on physical health, social connectedness, and anxiety levels, the goal is to uncover trends that can inform educational institutions and mental health professionals.
 
 ---
 
-## 📑 Project Overview
+## 📑 **Project Overview**
 
-This SQL analysis focuses on the following:
-1. **Data Cleaning & Preparation**: Cleaning the data and ensuring all values are valid for analysis.
-2. **Querying**: Using SQL queries to aggregate and analyze the data based on stay duration.
-3. **Data Visualization**: Presenting results through clear visualizations to highlight trends in the data.
-
----
-
-## 🚀 Key Insights
-- **PHQ Scores**: Shorter stays are associated with lower physical health scores, indicating that students staying for shorter durations may report fewer health issues.
-- **SCS & AS Scores**: Social connectedness and anxiety levels fluctuate more with shorter stays. In particular, anxiety (AS) scores tend to be higher for shorter stay durations.
+This analysis provides insights into how stay duration impacts student well-being. It is structured as follows:
+1. **Data Cleaning & Preparation**: Ensuring all data is clean, accurate, and ready for analysis.
+2. **SQL Queries**: Extracting and analyzing key data points to identify trends.
+3. **Data Visualization**: Presenting insights through clear and impactful visualizations.
 
 ---
 
-## 🛠️ Tools & Technologies
-- **SQL**: For querying and aggregating data.
-- **Python (pandas, matplotlib, seaborn)**: For additional data manipulation and visualization.
+## 🚀 **Key Findings**
+- **Physical Health (PHQ)**: Shorter stays often correlate with lower physical health scores, suggesting that students staying for shorter durations may experience fewer health issues.
+- **Social Connectedness & Anxiety (SCS & AS)**: There is greater fluctuation in social connectedness and anxiety scores for shorter stays, with anxiety being notably higher.
 
 ---
 
-## 🔗 Notable Sections in the Notebook
-1. **[Data Preparation & Cleaning](#)**: Steps for preparing the dataset.
-2. **[SQL Queries](#)**: Key queries used to analyze the stay duration and well-being metrics.
-3. **[Visualizations](#)**: Visual representation of the analysis.
+## 🛠️ **Technologies Used**
+- **SQL**: For data aggregation and querying.
+- **Python**: Leveraging libraries like `pandas`, `matplotlib`, and `seaborn` for further data analysis and visualization.
 
 ---
 
-## 🔍 Future Directions
-- **Comparative Analysis**: Investigating differences between international and domestic students based on their well-being metrics.
-- **Deeper Analysis**: Exploring other factors like demographics to gain further insights into student well-being.
+## 📊 **Sections in the Project**
+1. **Data Preparation & Cleaning**: [Link to Code](#)
+2. **SQL Queries**: [Link to Code](#)
+3. **Data Visualization**: [Link to Code](#)
 
 ---
 
-## 📬 Let's Connect
-I’m always open to discussing data-driven projects, SQL analytics, or student well-being initiatives. Feel free to connect with me to collaborate or ask questions!
+## 🔍 **Future Directions**
+- **Comparative Analysis**: Analyze well-being metrics for international vs. domestic students.
+- **Demographic Insights**: Explore the influence of demographic factors on well-being metrics.
+
+---
+
+## 📬 **Get in Touch**
+
+I’m always excited to collaborate on data-driven projects, particularly those involving SQL analytics and student well-being. Feel free to connect with me!
 
 📧 [info@adeyanjuteslim.co.uk](mailto:info@adeyanjuteslim.co.uk)  
 🌍 [adeyanjuteslim.co.uk](https://adeyanjuteslim.co.uk)  
 💼 [LinkedIn](https://www.linkedin.com/in/adeyanjuteslimuthman)
 
 ---
-
-
