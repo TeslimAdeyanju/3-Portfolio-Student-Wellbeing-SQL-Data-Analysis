@@ -45,5 +45,4 @@ I’m always excited to collaborate on data-driven projects, particularly those 
 📧 [info@adeyanjuteslim.co.uk](mailto:info@adeyanjuteslim.co.uk)  
 🌍 [adeyanjuteslim.co.uk](https://adeyanjuteslim.co.uk)  
 💼 [LinkedIn](https://www.linkedin.com/in/adeyanjuteslimuthman)
-
 ---
